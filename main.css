@@ -1,9 +1,17 @@
 /*CSS */
 /*more css */
+
 .rowjoe{
     background-color: blue;
     text-align: left;
 }
+
+
+.rowsam{
+    background-color: crimson;
+    text-align: center;
+}
+
 a{
     text-decoration: none;
 }
