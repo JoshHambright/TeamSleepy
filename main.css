@@ -25,6 +25,15 @@ a:hover{
     max-width: 300px;
 }
 
+.zzz{
+    font-size: 20px;
+    text-shadow: 1px 1px 4px darkblue; 
+    
+}
+.zzz:hover{
+    text-transform: capitalize;
+    text-shadow: 2px 2px 8px yellowgreen;
+}
 
 
 
